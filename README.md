@@ -15,12 +15,7 @@
   </a>
 </div>
 
----
-
-### About Me
-
-I am a Statistician and Data Scientist with a focus on time series analysis, probability distribution fitting, machine learning classification, and multivariate data modeling. I enjoy leveraging data to uncover insights and build robust analytical models.
-
+I am a Statistician and Data Scientist with a focus on Business analytics, Time Series, Machine Learning, and multivariate data modeling. 
  **Get in touch:** [aghnik.stat@gmail.com](mailto:aghnik.stat@gmail.com)
 
 ---
