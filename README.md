@@ -19,6 +19,11 @@ I am a Statistician and Data Scientist with a focus on Business analytics, Time 
  **Get in touch:** [aghnik.stat@gmail.com](mailto:aghnik.stat@gmail.com)
 
 ---
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+[![My Skills](https://skillicons.dev/icons?i=r,python,vscode,html,github&theme=light)](https://skillicons.dev)
+
+
 
 ### Skills & Platforms
 
