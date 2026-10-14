@@ -10,8 +10,8 @@
   <a href="mailto:aghnik.stat@gmail.com">
     <img src="https://freepngimg.com/icon/download/gmail/66475-logo-icons-computer-email-gmail-png-image-high-quality.png" alt="Email" title="Email" width="23" height="22.5" />
   </a>
-  <a href="https://aghnikpaul.page.gd/" target="_blank">
-    <img src="https://i.pinimg.com/1200x/06/b5/0e/06b50e894f0913a8de6d218d53e0a712.jpg" alt="Portfolio" title="portfolio" width="60" height="20"/>
+  <a href="https://github.com/aghnikpaul?tab=repositories">
+    <img src="https://img.shields.io/badge/_Portfolio-82caff?style=for-the-badge&logo=wordpress&logoColor=black" alt="Portfolio" title="Portfolio" width="80" height="20"/>
   </a>
 </div>
 
@@ -19,8 +19,7 @@ I am a Statistician and Data Scientist with a focus on Business analytics, Time 
  **Get in touch:** [aghnik.stat@gmail.com](mailto:aghnik.stat@gmail.com)
 
 
-### Skills & Platforms 
-
+### Skills Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio" title="RStudio" width="40" height="40"/>
@@ -31,7 +30,7 @@ I am a Statistician and Data Scientist with a focus on Business analytics, Time 
   <img src="https://icon.icepanel.io/Technology/svg/IBM-SPSS-Statistics.svg" alt="IBM SPSS" title="IBM SPSS" width="40" height="40"/>
     <img src="https://support.ubishops.ca/wp-content/uploads/2020/06/jamovi-icon-export.png" alt="Jamovi" title="Jamovi" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" title="Jupyter Notebook" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/googlecolab" alt="Google Colab" title="Google Colab" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Google Colab" title="Google Colab" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="40" height="40"/>
     <img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" alt="Pandas" title="Pandas" width="40" height="40"/>
@@ -42,9 +41,6 @@ I am a Statistician and Data Scientist with a focus on Business analytics, Time 
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" title="Seaborn" width="40" height="40"/>
 </p>
 
-### Other platforms
-[![Other Skills](https://skillicons.dev/icons?i=ps,ai,html,&theme=dark)](https://skillicons.dev)
-
 ---
 
 <div align="center">
@@ -54,12 +50,3 @@ I am a Statistician and Data Scientist with a focus on Business analytics, Time 
 </div>
 
 <br>
-
-
-
-## 📫 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-aghnik.stat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aghnik.stat@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-aghnikpaul.page.gd-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aghnikpaul.page.gd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aghnikpaul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aghnikpaul)
-
