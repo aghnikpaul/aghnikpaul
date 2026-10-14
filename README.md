@@ -5,7 +5,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aghnikpaul" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" alt="LinkedIn"title="Linkedin" width="20" height="20" />
   </a>
   <a href="mailto:aghnik.stat@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
@@ -36,7 +36,7 @@ I am a Statistician and Data Scientist with a focus on Business analytics, Time 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="40" height="40"/>
     <img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" alt="Pandas" title="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" alt="XGBoost" title="XGBoost" width="40" height="40"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yhE3CBwTrlXcAIvNJNTQiA.png" alt="XGBoost" title="XGBoost" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/ggplot2.png" alt="ggplot2" title="ggplot2" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" title="MATLAB" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" title="Seaborn" width="40" height="40"/>
