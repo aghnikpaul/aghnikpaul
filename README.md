@@ -16,6 +16,7 @@
 </div>
 
 I am a Statistician and Data Scientist with a focus on Business analytics, Time Series, Machine Learning, and multivariate data modeling. 
+
  **Get in touch:** [aghnik.stat@gmail.com](mailto:aghnik.stat@gmail.com)
 
 
