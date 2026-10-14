@@ -5,13 +5,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aghnikpaul" target="_blank">
-    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" alt="LinkedIn"title="Linkedin" width="20" height="20" />
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" alt="LinkedIn" title="Linkedin" width="20" height="20" />
   </a>
   <a href="mailto:aghnik.stat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://freepngimg.com/icon/download/gmail/66475-logo-icons-computer-email-gmail-png-image-high-quality.png" alt="Email" title="Email" width="23" height="22.5" />
   </a>
   <a href="https://aghnikpaul.page.gd/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=flat&logo=wordpress&logoColor=white" alt="Portfolio" />
+    <img src="https://i.pinimg.com/1200x/06/b5/0e/06b50e894f0913a8de6d218d53e0a712.jpg" alt="Portfolio" title="portfolio" width="60" height="20"/>
   </a>
 </div>
 
