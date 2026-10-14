@@ -22,7 +22,8 @@ I am a Statistician and Data Scientist with a focus on Business analytics, Time 
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 ### Skills & Platforms 
-[![My Skills](https://skillicons.dev/icons?i=r,python,mysql,matlab,sklearn,c,vscode,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,python,mysql,matlab,sklearn,c,vscode,github&theme=dark)](https://skillicons.dev) <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Microsoft Excel" width="40" height="40"/>
+
 
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Microsoft Excel" width="40" height="40"/>
 
