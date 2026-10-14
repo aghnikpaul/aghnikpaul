@@ -10,7 +10,7 @@
   <a href="mailto:aghnik.stat@gmail.com">
     <img src="https://freepngimg.com/icon/download/gmail/66475-logo-icons-computer-email-gmail-png-image-high-quality.png" alt="Email" title="Email" width="23" height="22.5" />
   </a>
-  <a href="https://github.com/aghnikpaul?tab=repositories">
+  <a href="https://aghnikpaul.page.gd">
     <img src="https://img.shields.io/badge/_Portfolio-82caff?style=for-the-badge&logo=wordpress&logoColor=black" alt="Portfolio" title="Portfolio" width="80" height="20"/>
   </a>
 </div>
@@ -46,7 +46,7 @@ I am a Statistician and Data Scientist with a focus on Business analytics, Time 
 
 <div align="center">
   <a href="https://github.com/aghnikpaul?tab=repositories">
-    <img src="https://img.shields.io/badge/_View_my_works-238636?style=for-the-badge&logo=github&logoColor=white" alt="View my works" />
+    <img src="https://img.shields.io/badge/_View_my_works-36454f?style=for-the-badge&logo=github&logoColor=white" alt="View my works" title="View my works" width="160" height="30" />
   </a>
 </div>
 
