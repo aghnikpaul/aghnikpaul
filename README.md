@@ -11,7 +11,7 @@
     <img src="https://freepngimg.com/icon/download/gmail/66475-logo-icons-computer-email-gmail-png-image-high-quality.png" alt="Email" title="Email" width="23" height="22.5" />
   </a>
   <a href="https://aghnikpaul.page.gd">
-    <img src="https://img.shields.io/badge/_Portfolio-82caff?style=for-the-badge&logo=wordpress&logoColor=black" alt="Portfolio" title="Portfolio" width="80" height="20"/>
+    <img src="https://img.shields.io/badge/_Portfolio-247141?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" title="Portfolio" width="80" height="20"/>
   </a>
 </div>
 
