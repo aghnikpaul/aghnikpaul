@@ -1,7 +1,6 @@
-<div align="left">
-  <h1>Aghnik Paul</h1>
-  <h3>Statistician & Data Scientist</h3>
-</div>
+<h1>Aghnik Paul</h1>
+  
+**`Statistician & Data Scientist`** 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aghnikpaul" target="_blank">
@@ -15,11 +14,12 @@
   </a>
 </div>
 
-I am a Statistician and Data Scientist with a focus on Business analytics, Time Series, Machine Learning, and multivariate data modeling. 
+I am a Statistician and ML engineer with a focus on Business analytics, Time Series, Machine Learning, and multivariate data modeling. 
 
  **Get in touch:** [aghnik.stat@gmail.com](mailto:aghnik.stat@gmail.com)
 
 
+---
 ### Skills Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
@@ -41,8 +41,6 @@ I am a Statistician and Data Scientist with a focus on Business analytics, Time 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" title="MATLAB" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" title="Seaborn" width="40" height="40"/>
 </p>
-
----
 
 <div align="center">
   <a href="https://github.com/aghnikpaul?tab=repositories">
