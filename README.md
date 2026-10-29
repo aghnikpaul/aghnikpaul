@@ -34,7 +34,7 @@ I am a Statistician and ML engineer with a focus on Business analytics, Time Ser
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Google Colab" title="Google Colab" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="40" height="40"/>
-    <img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" alt="Pandas" title="Pandas" width="40" height="40"/>
+    <img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" alt="Pandas" title="Pandas" width="40" height="40" bg="black"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="40" height="40"/>
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yhE3CBwTrlXcAIvNJNTQiA.png" alt="XGBoost" title="XGBoost" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/ggplot2.png" alt="ggplot2" title="ggplot2" width="40" height="40"/>
