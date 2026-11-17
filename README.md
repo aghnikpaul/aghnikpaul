@@ -29,7 +29,7 @@ I am a Statistician and ML engineer with a focus on Business analytics, Time Ser
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="MS Excel" title="MS Excel" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Power BI" title="Power BI" width="40" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/IBM-SPSS-Statistics.svg" alt="IBM SPSS" title="IBM SPSS" width="40" height="40"/>
-    <img src="https://support.ubishops.ca/wp-content/uploads/2020/06/jamovi-icon-export.png" alt="Jamovi" title="Jamovi" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Jamovi_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Jamovi" title="Jamovi" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" title="Jupyter Notebook" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Google Colab" title="Google Colab" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40"/>
